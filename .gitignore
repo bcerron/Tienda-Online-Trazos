@@ -1,7 +1,11 @@
 /.DS_Store
 /assets
-/css
-/img
+
+
 /index2.html
-/js
+
 /json
+css/style2.css
+js/script2.js
+img/.DS_Store
+css/.DS_Store
