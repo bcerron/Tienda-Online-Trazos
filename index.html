@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Tienda Online</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;400;600;700&display=swap" rel="stylesheet" />
+        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+        <link rel="stylesheet" href="css/normalize.min.css" />
+    </head>
+
+    <body>
+        <header class="header">
+            <img src="img/logo.png" alt="" class="header__logo" />
+            <nav class="header__menu">
+                <a href="#">Home</a>
+                <a href="#">Shop</a>
+                <a href="#">About</a>
+                <img src="img/cart.png" alt="Cart" class="header__cart-icon" id="cart" />
+            </nav>
+        </header>
+        <main class="main" id="main">
+            <div class="notification error" id="message">a</div>
+            <div class="product-grid" id="product-grid"></div>
+            <div class="modal hidden" id="modal">
+                <div class="product-detail-container" id="product-detail"></div>
+                <div class="overlay hidden" id="overlay"></div>
+            </div>
+            <div class="cart" id="cart-module">
+                <button class="close-button" id="close-cart">&times;</button>
+                <div class="cart-items" id="cart-items"></div>
+            </div>
+        </main>
+        <script src="js/script.js"></script>
+    </body>
+</html>
