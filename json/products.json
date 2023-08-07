@@ -1,0 +1,140 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Camiseta Deportiva",
+            "description": "Camiseta deportiva de algodón transpirable",
+            "price": 19.99,
+            "category": "Ropa Deportiva",
+            "size": "M",
+            "available": true
+        },
+        {
+            "id": 2,
+            "name": "Pantalón Deportivo",
+            "description": "Pantalón deportivo cómodo y elástico",
+            "price": 29.99,
+            "category": "Ropa Deportiva",
+            "size": "L",
+            "available": true
+        },
+        {
+            "id": 3,
+            "name": "Chaqueta Deportiva",
+            "description": "Chaqueta deportiva resistente al agua",
+            "price": 49.99,
+            "category": "Ropa Deportiva",
+            "size": "S",
+            "available": true
+        },
+        {
+            "id": 4,
+            "name": "Zapatillas Deportivas",
+            "description": "Zapatillas deportivas con suela acolchada",
+            "price": 59.99,
+            "category": "Calzado Deportivo",
+            "size": "US 9 / EU 42",
+            "available": true
+        },
+        {
+            "id": 5,
+            "name": "Mallas Deportivas",
+            "description": "Mallas deportivas de compresión",
+            "price": 24.99,
+            "category": "Ropa Deportiva",
+            "size": "M",
+            "available": true
+        },
+        {
+            "id": 6,
+            "name": "Sudadera con Capucha",
+            "description": "Sudadera deportiva con capucha ajustable",
+            "price": 39.99,
+            "category": "Ropa Deportiva",
+            "size": "XL",
+            "available": true
+        },
+        {
+            "id": 7,
+            "name": "Gorra Deportiva",
+            "description": "Gorra deportiva transpirable con visera",
+            "price": 14.99,
+            "category": "Accesorios Deportivos",
+            "size": "Única",
+            "available": true
+        },
+        {
+            "id": 8,
+            "name": "Calcetines Deportivos",
+            "description": "Calcetines deportivos cómodos y absorbentes",
+            "price": 9.99,
+            "category": "Ropa Deportiva",
+            "size": "35-38",
+            "available": true
+        },
+        {
+            "id": 9,
+            "name": "Chándal Completo",
+            "description": "Conjunto de chándal cómodo y moderno",
+            "price": 69.99,
+            "category": "Ropa Deportiva",
+            "size": "L",
+            "available": true
+        },
+        {
+            "id": 10,
+            "name": "Bolsa Deportiva",
+            "description": "Bolsa deportiva resistente y espaciosa",
+            "price": 34.99,
+            "category": "Accesorios Deportivos",
+            "size": "Única",
+            "available": true
+        },
+        {
+            "id": 11,
+            "name": "Pantalón Corto Deportivo",
+            "description": "Pantalón corto deportivo transpirable",
+            "price": 14.99,
+            "category": "Ropa Deportiva",
+            "size": "M",
+            "available": true
+        },
+        {
+            "id": 12,
+            "name": "Top Deportivo",
+            "description": "Top deportivo de alto rendimiento",
+            "price": 22.99,
+            "category": "Ropa Deportiva",
+            "size": "S",
+            "available": true
+        },
+        {
+            "id": 13,
+            "name": "Chaqueta Impermeable",
+            "description": "Chaqueta deportiva impermeable",
+            "price": 54.99,
+            "category": "Ropa Deportiva",
+            "size": "L",
+            "available": true
+        },
+        {
+            "id": 14,
+            "name": "Zapatillas de Running",
+            "description": "Zapatillas de running con amortiguación",
+            "price": 89.99,
+            "category": "Calzado Deportivo",
+            "size": "US 8 / EU 41",
+            "available": true
+        },
+       
+        {
+            "id": 15,
+            "name": "Sudadera de Entrenamiento",
+            "description": "Sudadera de entrenamiento con tecnología de absorción",
+            "price": 47.99,
+            "category": "Ropa Deportiva",
+            "size": "L",
+            "available": true
+        }
+    ]
+}
